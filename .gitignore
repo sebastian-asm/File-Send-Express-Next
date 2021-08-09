@@ -1,0 +1,10 @@
+# Carpetas
+*/node_modules/
+*/out/
+*/build/
+*/.next/
+*/src/uploads/
+.vscode/
+
+# Archivos
+*/.env
